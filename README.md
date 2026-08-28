@@ -1,4 +1,4 @@
-![Adrian Radulescu](banner.svg)
+![Adrian-Razvan Radulescu](space.svg)
 
 <br/>
 
@@ -8,6 +8,4 @@
 
 <br/>
 
-`React` &nbsp; `TypeScript` &nbsp; `Laravel` &nbsp; `Go` &nbsp; `Node.js` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `C++` &nbsp; `Python`
-
-</div>
+`React` &nbsp; `TypeScript` &nbsp; `Laravel` &nbsp; `Go` &nbsp; `Node.js` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `C++` &nbsp; `Python`\n\n</div>
